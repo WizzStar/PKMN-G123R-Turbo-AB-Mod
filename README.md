@@ -42,4 +42,3 @@
 
 ## 💬 Support
 - **GitHub Issues:** [PKMN-G123R-Turbo-AB-Mod / Issues](https://github.com/WizzStar/PKMN-G123R-Turbo-AB-Mod/issues)
-- **Discord:** `WizzStar`
