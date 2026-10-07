@@ -25,4 +25,4 @@ Hold **A** or **B** to auto-advance text — no more mashing. Works in Red/Blue/
 ## 📦 Install
 Download `wizzstar_turbo_ab_v1_0_1.zip` → launcher → **MODS** → enable. One install covers all 3 gens.
 
-💬 Bugs: [GitHub Issues](https://github.com/WizzStar/PKMN-G123R-Turbo_AB-Mod/issues)
+💬 Bugs: [GitHub Issues](https://github.com/WizzStar/PKMN-G123R-Turbo-AB-Mod/issues)
