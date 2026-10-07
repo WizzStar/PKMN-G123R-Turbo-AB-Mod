@@ -1,6 +1,6 @@
 # G123R Turbo_AB Mod
 
-**v1.0.1** · by **WizzStar** · [GitHub](https://github.com/WizzStar/PKMN-G123R-Turbo_AB-Mod)
+**v1.0.1** · by **WizzStar** ·
 
 Hold **A** or **B** to auto-advance text — no more mashing. Works in Red/Blue/Yellow, Gold/Silver/Crystal and FireRed/LeafGreen/Ruby/Sapphire/Emerald.
 
